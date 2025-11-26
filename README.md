@@ -8,3 +8,7 @@ npm run dev
 ``` bash
 npx convex dev
 ```
+## Install Axios
+```bash
+npm i axios
+```
